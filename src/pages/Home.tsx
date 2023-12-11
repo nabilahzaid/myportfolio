@@ -6,7 +6,7 @@ type Props = {}
 export const Home = (props: Props) => {
   return (
     <Main>
-        <section className="">
+        <section id="home" className="">
             <div className='w-full flex justify-center items-center pt-32'>
                 <div className=''>
                     <div className="text-primary-800 text-[218px] font-primary font-semibold z-10">Nabilah</div>

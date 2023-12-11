@@ -1,0 +1,65 @@
+{
+    "projects": [
+    {
+        "id": "1",
+        "title": "Application Development for Government Agencies",
+        "details": "As the leader of a software engineering team, I specialized in developing and maintaining web applications for various government agencies. A key part of my role was to redesign the application architecture, focusing on quality, scalability, and enhanced usability to meet the specific needs of government clients.\n\n I provided mentorship to junior team members, ensuring adherence to best practices and coding standards, and organized development documentation and standard operating procedures to improve our workflow. My efforts in optimizing application performance and reliability through bug fixes and testing were crucial. In working closely with government clients, I gathered their requirements to deliver tailored technical solutions and conducted training sessions on the developed applications to ensure their effective use. This role required a blend of technical expertise and a deep understanding of government agency needs, contributing to the creation of efficient and high-quality web applications.",
+        "status": "LAUNCHED",
+        "year": 2022,
+        "role": "Application Developer, System Analyst",
+        "stack_use": [
+            "dotnet",
+            "csharp",
+            "laravel",
+            "jquery",
+            "php",
+            "vue",
+            "javascript",
+            "bootstrap",
+            "postgresql",
+            "mysql",
+            "oracle",
+            "sqlserver"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "SaaS Customer Portal",
+        "details": "I was tasked with the development of the front-end for a Software as a Service (SaaS) customer portal. This project required the use of Angular and Ionic frameworks, which are renowned for their robustness and versatility in web application development. My primary focus was on creating an interface that would be used by our clients' customers, necessitating a design that was not only efficient and responsive but also user-friendly and engaging.\n\nThe development of this portal was a critical aspect of our service offering, as it directly impacted the user experience of our clients' customers. By leveraging the capabilities of Angular and Ionic, I was able to ensure that the portal was both visually appealing and functionally seamless. ",
+        "status": "UNKNOWN",
+        "year": 2021,
+        "role": "Front End Developer",
+        "stack_use": [
+            "angular",
+            "ionic",
+            "typescript"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Website Rebranding for Malaysian Rubber Board",
+        "details": "As a freelancer, I took on the challenging task of rebranding the Malaysian Rubber Board's website. This project required a complete overhaul of the existing website to align with the new branding strategy. The development of the new site was carried out using .NET and Angular, which provided a robust and scalable foundation. My role encompassed not only the technical development but also ensuring that the new design resonated with the brand's vision and objectives.\n\nIn addition to the website development, I was responsible for creating custom icons to complement the new look. These icons were designed to give the website a fresh and modern appearance, enhancing the overall user experience. My focus was on creating icons that were both visually appealing and functionative, ensuring they aligned with the website's aesthetics and usability. This project showcased my ability to blend technical development with creative design, delivering a cohesive and refreshed online presence for the Malaysian Rubber Board.",
+        "status": "LAUNCHED",
+        "year": 2021,
+        "role": "Application Developer",
+        "stack_use": [
+            "dotnet",
+            "csharp",
+            "angular",
+            "typescript"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Medery Mobile App",
+        "details": "In 2020, I participated in the CHIPTA Hackathon, a competitive and prestigious event that brings together innovative minds in technology. My team and I achieved significant recognition by securing the 8th place among numerous talented participants. This achievement was a testament to our technical skills, creativity, and dedication to developing cutting-edge solutions in a highly competitive environment.\n\nOur project for the hackathon was the development of a medicine delivery mobile application, utilizing Flutter for the front-end and Laravel for the back-end. This combination of technologies allowed us to create a seamless and efficient user experience, catering to the critical need for accessible healthcare services. The application was designed to facilitate easy and reliable delivery of medicines, showcasing our ability to address real-world problems through technological innovation.",
+        "status": "LAUNCHED",
+        "year": 2020,
+        "role": "Mobile Developer",
+        "stack_use": [
+            "flutter",
+            "dart"
+        ]
+    }
+]
+}
